@@ -12,3 +12,8 @@ Simple CLI/UI input
 Error handling for invalid inputs
 
 Easy to modify and extend
+Language: Java / Python / Node.js (mention whichever you used)
+
+Tools: Git, GitHub
+
+IDE: VS Code / IntelliJ / PyCharm
